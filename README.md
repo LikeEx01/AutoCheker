@@ -40,7 +40,7 @@ Setelah instalasi selesai, ikuti langkah-langkah berikut untuk menjalankan alat 
 
 1. Jalankan skrip dengan perintah berikut:
     ```bash
-    python auto_wordpress_chaker.py
+    python AutoCheker.py
     ```
 
 2. Masukkan file yang berisi URL dan kredensial situs WordPress yang akan diperiksa.
