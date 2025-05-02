@@ -3,7 +3,6 @@
 ## Deskripsi
 **Auto WordPress Chaker** adalah alat untuk memeriksa login ke situs WordPress secara otomatis dan mengkategorikan login yang berhasil. Alat ini menggunakan teknik brute force untuk memeriksa kredensial pengguna di berbagai situs WordPress dan menyimpan hasilnya dalam file terpisah berdasarkan kategori.
 
-![Logo](https://link-ke-gambar.com/logo.png)
 
 ## Fitur Utama
 - Cek login otomatis ke WordPress
@@ -22,12 +21,12 @@ Ikuti langkah-langkah berikut untuk menginstal dan menjalankan proyek ini:
 
 1. Clone repositori:
     ```bash
-    git clone https://github.com/username/repo.git
+    https://github.com/RidXploit403/AutoCheker.git
     ```
 
 2. Pindah ke direktori proyek:
     ```bash
-    cd repo
+    cd AutoCheker
     ```
 
 3. Instal pustaka yang dibutuhkan:
@@ -53,10 +52,10 @@ Setelah instalasi selesai, ikuti langkah-langkah berikut untuk menjalankan alat 
 ## Output
 Setelah menjalankan skrip, hasil login yang berhasil akan disimpan dalam file sebagai berikut:
 
-- `loginSuccess.txt`: Menyimpan kredensial yang berhasil login.
-- `WooCommerce.txt`: Menyimpan login yang terkait dengan WooCommerce.
-- `wpfilemanager.txt`: Menyimpan login yang memiliki akses ke WP File Manager.
-- `plugin-install.txt`: Menyimpan login yang memiliki akses untuk menginstal plugin.
+- `loginSuccess.txt`: Menyimpan Valid Request.
+- `WooCommerce.txt`: Menyimpan login WooCommerce.
+- `wpfilemanager.txt`: Menyimpan login WP File Manager.
+- `plugin-install.txt`: Menyimpan login untuk menginstal plugin.
 
 ## Lisensi
 Proyek ini dilisensikan di bawah [Lisensi MIT](https://opensource.org/licenses/MIT).
@@ -69,7 +68,7 @@ Proyek ini dilisensikan di bawah [Lisensi MIT](https://opensource.org/licenses/M
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 ## Kontak
-Jika Anda memiliki pertanyaan atau masalah, jangan ragu untuk membuka [issue](https://github.com/username/repo/issues) di GitHub atau hubungi saya di [email@example.com](mailto:email@example.com).
+Jika Anda memiliki pertanyaan atau masalah, jangan ragu untuk membuka [issue](https://github.com/username/repo/issues) di GitHub atau hubungi saya di [email@example.com](mailto:t.me/TempeSec1337).
 
 ## Terima Kasih
 Terima kasih telah menggunakan **Auto WordPress Chaker**. Semoga proyek ini bermanfaat untuk pengujian keamanan situs WordPress Anda!
