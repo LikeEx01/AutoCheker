@@ -1,5 +1,17 @@
 # Auto WordPress Chaker
 
+## Badge
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Python](https://img.shields.io/badge/python-3.6%2B-blue)
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20MacOS-lightgrey)
+![Made With](https://img.shields.io/badge/made%20with-Python-orange)
+![Status](https://img.shields.io/badge/status-active-success)
+![Stars](https://img.shields.io/github/stars/RidXploit403/AutoCheker?style=social)
+![Forks](https://img.shields.io/github/forks/RidXploit403/AutoCheker?style=social)
+![Issues](https://img.shields.io/github/issues/RidXploit403/AutoCheker)
+![Last Commit](https://img.shields.io/github/last-commit/RidXploit403/AutoCheker)
+
 ## Deskripsi
 **Auto WordPress Chaker** adalah alat untuk memeriksa login ke situs WordPress secara otomatis dan mengkategorikan login yang berhasil. Alat ini menggunakan teknik brute force untuk memeriksa kredensial pengguna di berbagai situs WordPress dan menyimpan hasilnya dalam file terpisah berdasarkan kategori.
 
@@ -23,7 +35,7 @@ Ikuti langkah-langkah berikut untuk menginstal dan menjalankan proyek ini:
 
 1. Clone repositori:
     ```bash
-    git clone https://github.com/RidXploit403/AutoCheker.git
+    git clone https://github.com/LikeEx01/AutoCheker.git
     ```
 
 2. Pindah ke direktori proyek:
@@ -70,24 +82,11 @@ Proyek ini dilisensikan di bawah [Lisensi MIT](https://opensource.org/licenses/M
 ## Penafian
 > **Peringatan:** Gunakan hanya untuk tujuan pendidikan dan pengujian etis! Alat ini hanya boleh digunakan dalam pengujian penetrasi legal dan dengan izin eksplisit dari pemilik situs.
 
-## Badge
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
-![Python](https://img.shields.io/badge/python-3.6%2B-blue)
-![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20MacOS-lightgrey)
-![Made With](https://img.shields.io/badge/made%20with-Python-orange)
-![Status](https://img.shields.io/badge/status-active-success)
-![Stars](https://img.shields.io/github/stars/RidXploit403/AutoCheker?style=social)
-![Forks](https://img.shields.io/github/forks/RidXploit403/AutoCheker?style=social)
-![Issues](https://img.shields.io/github/issues/RidXploit403/AutoCheker)
-![Last Commit](https://img.shields.io/github/last-commit/RidXploit403/AutoCheker)
-
 
 ## Kontak
 Jika Anda memiliki pertanyaan atau masalah, silakan buka [issue](https://github.com/RidXploit403/AutoCheker/issues) di GitHub atau hubungi saya:
 
 - Telegram: [@TempeSec1337](https://t.me/TempeSec1337)
-- Email: tempe@secmail.pro
 
 ## Terima Kasih
 Terima kasih telah menggunakan **Auto WordPress Chaker**. Semoga proyek ini bermanfaat untuk pengujian keamanan situs WordPress Anda!
