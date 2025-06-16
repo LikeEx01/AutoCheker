@@ -1,89 +1,86 @@
-# 🔐 Auto WordPress Chaker
+# Auto WordPress Chaker
 
 ## Deskripsi
-Auto WordPress Chaker adalah alat untuk memeriksa login ke situs WordPress secara otomatis dan mengkategorikan login yang berhasil berdasarkan fitur yang tersedia. Alat ini berguna untuk auditor keamanan atau peneliti keamanan siber dalam melakukan uji coba brute-force terhadap kredensial situs WordPress yang telah diotorisasi.
+**Auto WordPress Chaker** adalah alat untuk memeriksa login ke situs WordPress secara otomatis dan mengkategorikan login yang berhasil. Alat ini menggunakan teknik brute force untuk memeriksa kredensial pengguna di berbagai situs WordPress dan menyimpan hasilnya dalam file terpisah berdasarkan kategori.
 
-## 🎯 Fitur Utama
-- ✅ Deteksi otomatis situs WordPress
-- 🔐 Otomatis login dengan username & password
-- 📁 Kategorisasi hasil login:
-  - WooCommerce
-  - WP File Manager
-  - Plugin Installer
-- 🧠 Deteksi login gagal dan menyimpannya
-- 🧵 Mendukung multi-thread untuk kecepatan maksimum
-- 📡 Header acak dengan berbagai User-Agent
-- 🕓 Terproteksi tanggal kadaluarsa (hingga 30 Januari 2026)
-- 🔗 Redirect otomatis ke saluran WhatsApp Developer
+## Fitur Utama
+- Cek login otomatis ke WordPress
+- Kategorisasi login yang berhasil (WooCommerce, WP File Manager, Plugin Installer)
+- Menyimpan hasil login ke file yang berbeda
+- Menyimpan login gagal ke file terpisah
+- Mendukung multi-thread untuk mempercepat proses
+- Header random (User-Agent acak)
+- Tersedia waktu kadaluarsa untuk keamanan
 
-## 🖥️ Persyaratan Sistem
+## Persyaratan
 - Python 3.x
-- Pustaka pihak ketiga:
-  - requests
-  - idna
+- Pustaka `requests`, `idna`
+- Platform: Windows, Linux, atau MacOS
 
-## 🛠️ Instalasi
+## Instalasi
 
 Ikuti langkah-langkah berikut untuk menginstal dan menjalankan proyek ini:
 
 1. Clone repositori:
-   git clone https://github.com/RidXploit403/AutoCheker.git
+    ```bash
+    git clone https://github.com/RidXploit403/AutoCheker.git
+    ```
 
 2. Pindah ke direktori proyek:
-   cd AutoCheker
+    ```bash
+    cd AutoCheker
+    ```
 
 3. Instal pustaka yang dibutuhkan:
-   pip install requests idna
+    ```bash
+    pip install requests idna
+    ```
 
-## 🚀 Penggunaan
+## Penggunaan
 
-Setelah instalasi selesai, ikuti langkah-langkah berikut:
+Setelah instalasi selesai, ikuti langkah-langkah berikut untuk menjalankan alat ini:
 
-1. Jalankan skrip:
-   python AutoCheker.py
+1. Jalankan skrip dengan perintah berikut:
+    ```bash
+    python AutoCheker.py
+    ```
 
-2. Masukkan path file target dengan format:
-   https://site.com/wp-login.php|admin|password
+2. Masukkan file `.txt` yang berisi daftar target dengan format:
+    ```
+    https://example.com|admin|password
+    http://site.com/wp-login.php|user|pass123
+    ```
 
-3. Tentukan jumlah thread untuk mempercepat proses:
-   Jumlah Thread (misal 10): 20
+3. Tentukan jumlah thread untuk mempercepat proses (misal: 10 atau 20).
 
-## 📤 Format Input
-File .txt berisi daftar target dalam format:
+4. Hasil login yang berhasil akan disimpan dalam file seperti `WooCommerce.txt`, `wpfilemanager.txt`, `plugin-install.txt`, sedangkan login gagal disimpan di `LoginGagal.txt`.
 
-https://example.com|admin|pass123  
-http://blogsite.net/wp-login.php|wpuser|admin@2024
+## Output
 
-## 📦 Output
+Setelah menjalankan skrip, hasil login akan dikategorikan dan disimpan dalam file berikut:
 
-Hasil login yang berhasil dan gagal akan disimpan dalam file berikut:
+- `WooCommerce.txt`: Menyimpan login WordPress dengan plugin WooCommerce
+- `wpfilemanager.txt`: Menyimpan login WordPress dengan plugin WP File Manager
+- `plugin-install.txt`: Menyimpan login WordPress dengan akses ke fitur install plugin
+- `LoginGagal.txt`: Menyimpan kombinasi login yang gagal
 
-- WooCommerce.txt: Login berhasil dengan plugin WooCommerce
-- wpfilemanager.txt: Login berhasil dengan WP File Manager aktif
-- plugin-install.txt: Login berhasil dan memiliki akses installasi plugin
-- LoginGagal.txt: Login gagal untuk kombinasi url|user|pass
+## Lisensi
+Proyek ini dilisensikan di bawah [Lisensi MIT](https://opensource.org/licenses/MIT).
 
-## 🛡️ Lisensi
-Proyek ini menggunakan Lisensi MIT (https://opensource.org/licenses/MIT).  
-Silakan gunakan dengan bijak dan hanya untuk tujuan yang sah.
+## Penafian
+> **Peringatan:** Gunakan hanya untuk tujuan pendidikan dan pengujian etis! Alat ini hanya boleh digunakan dalam pengujian penetrasi legal dan dengan izin eksplisit dari pemilik situs.
 
-## ⚠️ Penafian
-Peringatan: Alat ini hanya untuk penetration testing legal dengan izin eksplisit dari pemilik situs. Penggunaan untuk kegiatan yang tidak sah merupakan pelanggaran hukum.
+## Badge
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
 
-## 🏷️ Badge
-[Build Status: Passing]  
-[License: MIT]
+## Kontak
+Jika Anda memiliki pertanyaan atau masalah, silakan buka [issue](https://github.com/RidXploit403/AutoCheker/issues) di GitHub atau hubungi saya:
 
-## 📬 Kontak
-Jika Anda memiliki pertanyaan atau saran, silakan buka issue di GitHub:  
-https://github.com/RidXploit403/AutoCheker/issues
-
-Atau hubungi via:
-- Telegram: https://t.me/TempeSec1337
+- Telegram: [@TempeSec1337](https://t.me/TempeSec1337)
 - Email: tempe@secmail.pro
 
-## 🙏 Terima Kasih
-Terima kasih telah menggunakan Auto WordPress Chaker. Semoga bermanfaat untuk membantu pengujian keamanan situs WordPress Anda dengan cara yang aman dan bertanggung jawab.
+## Terima Kasih
+Terima kasih telah menggunakan **Auto WordPress Chaker**. Semoga proyek ini bermanfaat untuk pengujian keamanan situs WordPress Anda!
 
-GitHub Repo: https://github.com/RidXploit403/AutoCheker  
-Channel Developer: https://whatsapp.com/channel/0029VaudLHc7YSd9S9c9800c
+[GitHub Repo](https://github.com/RidXploit403/AutoCheker)
