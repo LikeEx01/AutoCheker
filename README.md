@@ -7,10 +7,6 @@
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20MacOS-lightgrey)
 ![Made With](https://img.shields.io/badge/made%20with-Python-orange)
 ![Status](https://img.shields.io/badge/status-active-success)
-![Stars](https://img.shields.io/github/stars/RidXploit403/AutoCheker?style=social)
-![Forks](https://img.shields.io/github/forks/RidXploit403/AutoCheker?style=social)
-![Issues](https://img.shields.io/github/issues/RidXploit403/AutoCheker)
-![Last Commit](https://img.shields.io/github/last-commit/RidXploit403/AutoCheker)
 
 ## Deskripsi
 **Auto WordPress Chaker** adalah alat untuk memeriksa login ke situs WordPress secara otomatis dan mengkategorikan login yang berhasil. Alat ini menggunakan teknik brute force untuk memeriksa kredensial pengguna di berbagai situs WordPress dan menyimpan hasilnya dalam file terpisah berdasarkan kategori.
