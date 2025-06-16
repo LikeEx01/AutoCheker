@@ -1,76 +1,89 @@
-# Auto WordPress Chaker
+# 🔐 Auto WordPress Chaker
 
 ## Deskripsi
-**Auto WordPress Chaker** adalah alat untuk memeriksa login ke situs WordPress secara otomatis dan mengkategorikan login yang berhasil. Alat ini menggunakan teknik brute force untuk memeriksa kredensial pengguna di berbagai situs WordPress dan menyimpan hasilnya dalam file terpisah berdasarkan kategori.
+Auto WordPress Chaker adalah alat untuk memeriksa login ke situs WordPress secara otomatis dan mengkategorikan login yang berhasil berdasarkan fitur yang tersedia. Alat ini berguna untuk auditor keamanan atau peneliti keamanan siber dalam melakukan uji coba brute-force terhadap kredensial situs WordPress yang telah diotorisasi.
 
+## 🎯 Fitur Utama
+- ✅ Deteksi otomatis situs WordPress
+- 🔐 Otomatis login dengan username & password
+- 📁 Kategorisasi hasil login:
+  - WooCommerce
+  - WP File Manager
+  - Plugin Installer
+- 🧠 Deteksi login gagal dan menyimpannya
+- 🧵 Mendukung multi-thread untuk kecepatan maksimum
+- 📡 Header acak dengan berbagai User-Agent
+- 🕓 Terproteksi tanggal kadaluarsa (hingga 30 Januari 2026)
+- 🔗 Redirect otomatis ke saluran WhatsApp Developer
 
-## Fitur Utama
-- Cek login otomatis ke WordPress
-- Kategorisasi login yang berhasil (WooCommerce, WP File Manager, dll)
-- Menyimpan hasil login ke file yang berbeda
-- Mendukung banyak thread untuk mempercepat proses
-
-## Persyaratan
+## 🖥️ Persyaratan Sistem
 - Python 3.x
-- Pustaka `requests`
-- Platform: Windows, Linux, atau MacOS
+- Pustaka pihak ketiga:
+  - requests
+  - idna
 
-## Instalasi
+## 🛠️ Instalasi
 
 Ikuti langkah-langkah berikut untuk menginstal dan menjalankan proyek ini:
 
 1. Clone repositori:
-    ```bash
-    https://github.com/RidXploit403/AutoCheker.git
-    ```
+   git clone https://github.com/RidXploit403/AutoCheker.git
 
 2. Pindah ke direktori proyek:
-    ```bash
-    cd AutoCheker
-    ```
+   cd AutoCheker
 
 3. Instal pustaka yang dibutuhkan:
-    ```bash
-    pip install requests
-    ```
+   pip install requests idna
 
-## Penggunaan
+## 🚀 Penggunaan
 
-Setelah instalasi selesai, ikuti langkah-langkah berikut untuk menjalankan alat ini:
+Setelah instalasi selesai, ikuti langkah-langkah berikut:
 
-1. Jalankan skrip dengan perintah berikut:
-    ```bash
-    python AutoCheker.py
-    ```
+1. Jalankan skrip:
+   python AutoCheker.py
 
-2. Masukkan file yang berisi URL dan kredensial situs WordPress yang akan diperiksa.
+2. Masukkan path file target dengan format:
+   https://site.com/wp-login.php|admin|password
 
-3. Tentukan jumlah thread yang diinginkan untuk mempercepat proses.
+3. Tentukan jumlah thread untuk mempercepat proses:
+   Jumlah Thread (misal 10): 20
 
-4. Hasil login yang berhasil akan disimpan dalam file seperti `loginSuccess.txt`, `WooCommerce.txt`, dan `wpfilemanager.txt`.
+## 📤 Format Input
+File .txt berisi daftar target dalam format:
 
-## Output
-Setelah menjalankan skrip, hasil login yang berhasil akan disimpan dalam file sebagai berikut:
+https://example.com|admin|pass123  
+http://blogsite.net/wp-login.php|wpuser|admin@2024
 
-- `loginSuccess.txt`: Menyimpan Valid Request.
-- `WooCommerce.txt`: Menyimpan login WooCommerce.
-- `wpfilemanager.txt`: Menyimpan login WP File Manager.
-- `plugin-install.txt`: Menyimpan login untuk menginstal plugin.
+## 📦 Output
 
-## Lisensi
-Proyek ini dilisensikan di bawah [Lisensi MIT](https://opensource.org/licenses/MIT).
+Hasil login yang berhasil dan gagal akan disimpan dalam file berikut:
 
-## Penafian
-> **Peringatan:** Gunakan hanya untuk tujuan pendidikan dan peretasan etis! Alat ini hanya untuk digunakan dalam pengujian penetrasi yang sah dan dengan izin eksplisit dari pemilik situs.
+- WooCommerce.txt: Login berhasil dengan plugin WooCommerce
+- wpfilemanager.txt: Login berhasil dengan WP File Manager aktif
+- plugin-install.txt: Login berhasil dan memiliki akses installasi plugin
+- LoginGagal.txt: Login gagal untuk kombinasi url|user|pass
 
-## Badge
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
+## 🛡️ Lisensi
+Proyek ini menggunakan Lisensi MIT (https://opensource.org/licenses/MIT).  
+Silakan gunakan dengan bijak dan hanya untuk tujuan yang sah.
 
-## Kontak
-Jika Anda memiliki pertanyaan atau masalah, jangan ragu untuk membuka [issue](https://github.com/username/repo/issues) di GitHub atau hubungi saya di [email@example.com](mailto:t.me/TempeSec1337).
+## ⚠️ Penafian
+Peringatan: Alat ini hanya untuk penetration testing legal dengan izin eksplisit dari pemilik situs. Penggunaan untuk kegiatan yang tidak sah merupakan pelanggaran hukum.
 
-## Terima Kasih
-Terima kasih telah menggunakan **Auto WordPress Chaker**. Semoga proyek ini bermanfaat untuk pengujian keamanan situs WordPress Anda!
+## 🏷️ Badge
+[Build Status: Passing]  
+[License: MIT]
 
-[GitHub Repo](https://github.com/username/repo)
+## 📬 Kontak
+Jika Anda memiliki pertanyaan atau saran, silakan buka issue di GitHub:  
+https://github.com/RidXploit403/AutoCheker/issues
+
+Atau hubungi via:
+- Telegram: https://t.me/TempeSec1337
+- Email: tempe@secmail.pro
+
+## 🙏 Terima Kasih
+Terima kasih telah menggunakan Auto WordPress Chaker. Semoga bermanfaat untuk membantu pengujian keamanan situs WordPress Anda dengan cara yang aman dan bertanggung jawab.
+
+GitHub Repo: https://github.com/RidXploit403/AutoCheker  
+Channel Developer: https://whatsapp.com/channel/0029VaudLHc7YSd9S9c9800c
