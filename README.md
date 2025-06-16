@@ -73,6 +73,15 @@ Proyek ini dilisensikan di bawah [Lisensi MIT](https://opensource.org/licenses/M
 ## Badge
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
+![Python](https://img.shields.io/badge/python-3.6%2B-blue)
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20MacOS-lightgrey)
+![Made With](https://img.shields.io/badge/made%20with-Python-orange)
+![Status](https://img.shields.io/badge/status-active-success)
+![Stars](https://img.shields.io/github/stars/RidXploit403/AutoCheker?style=social)
+![Forks](https://img.shields.io/github/forks/RidXploit403/AutoCheker?style=social)
+![Issues](https://img.shields.io/github/issues/RidXploit403/AutoCheker)
+![Last Commit](https://img.shields.io/github/last-commit/RidXploit403/AutoCheker)
+
 
 ## Kontak
 Jika Anda memiliki pertanyaan atau masalah, silakan buka [issue](https://github.com/RidXploit403/AutoCheker/issues) di GitHub atau hubungi saya:
